@@ -1,0 +1,915 @@
+415. Укажите неверное определение переменной на PHP: 1. var carName, 2. var color, 3. carName, 4. userName
+ 
+ • 1,2,3
+ √ 1,2,3,4
+ • 1, 3
+ • 2,3,4
+ • 1, 2
+ 
+416. Укажите неверное определение переменной на PHP: 1. var carName, 2. var color, 3.  v carName, 4.v userName
+ 
+ • 1,2,3
+ • 2,3,4
+ • 1, 3
+ √ 1,2,3,4
+ • 1, 2
+ 
+417. Укажите неверное определение переменной на PHP: 1. var carName, 2.  var userName, 3. user, 4.v userName
+ 
+ √ 1,2,3,4
+ • 1,2,3
+ • 1, 2
+ • 2,3,4
+ • 1, 3
+ 
+418. Укажите неверное определение переменной на PHP: 1. var user, 2. var userName, 3. user, 4.v userName
+ 
+ • 1,2,3
+ • 1, 3
+ √ 1,2,3,4
+ • 1, 2
+ • 2,3,4
+ 
+419. Укажите неверное определение переменной на PHP: 1. var user, 2. var userName, 3. user, 4.variable name
+ 
+ • 2,3,4
+ • 1,2,3
+ • 1, 2
+ √ 1,2,3,4
+ • 1, 3
+ 
+420. Укажите неверное определение переменной на PHP: 1. var user, 2. var userName, 3. user, 4.variable user
+ 
+ • 2,3,4
+ • 1,2,3
+ • 1, 2
+ • 1, 3
+ √ 1,2,3,4
+ 
+421. Укажите неверное определение переменной на PHP: 1. var user, 2. var userName, 3. variable user, 4.variable user
+ 
+ • 1, 3
+ • 1,2,3
+ • 1, 2
+ √ 1,2,3,4
+ • 2,3,4
+ 
+
+422. Укажите неверное определение переменной на PHP: 1. var user, 2. var userName, 3. v user, 4.v userName
+ 
+ • 2,3,4
+ • 1,2,3
+ • 1, 3
+ • 1, 2
+ √ 1,2,3,4
+ 
+423. Укажите неверное определение переменной на PHP: 1. $carName, 2. $color, 3. carName, 4. userName
+ 
+ • 1,2,3
+ √ 3, 4
+ • 1, 2
+ • 1,2,3
+ • 2,3,4
+ 
+424. Укажите неверное определение переменной на PHP: 1. $carName, 2. $color, 3.  v carName, 4.v userName
+ 
+ • 1, 2
+ √ 3, 4
+ • 2,3,4
+ • 1,2,3
+ • 1,2,3
+ 
+425. Укажите неверное определение переменной на PHP: 1. $carName, 2.  $userName, 3. user, 4.v userName
+ 
+ √ 3, 4
+ • 1, 2
+ • 1,2,3
+ • 1,2,3
+ • 2,3,4
+ 
+426. Укажите неверное определение переменной на PHP: 1. $user, 2. $userName, 3. user, 4.v userName
+ 
+ • 1,2,3
+ • 1, 2
+ • 2,3,4
+ • 1,2,3
+ √ 3, 4
+ 
+427. Укажите неверное определение переменной на PHP: 1. $user, 2. $userName, 3. user, 4.variable name
+ 
+ • 1,2,3
+ √ 3, 4
+ • 1, 2
+ • 1,2,3
+ • 2,3,4
+ 
+428. Укажите неверное определение переменной на PHP: 1. $user, 2. $userName, 3. user, 4.variable user
+ 
+ √ 3, 4
+ • 1,2,3
+ • 1, 2
+ • 1,2,3
+ • 2,3,4
+ 
+429. Укажите неверное определение переменной на PHP: 1. $user, 2. $userName, 3. variable user, 4.variable user
+ 
+ • 1, 2
+ √ 3, 4
+
+• 2,3,4
+ • 1,2,3
+ • 1,2,3
+ 
+430. Укажите неверное определение переменной на PHP: 1. $user, 2. $userName, 3. v user, 4.v userName
+ 
+ • 1, 2
+ √ 3, 4
+ • 2,3,4
+ • 1,2,3
+ • 1,2,3
+ 
+431. Укажите верное определение переменной на PHP: 1. $carName, 2. $color, 3. carName, 4. userName
+ 
+ • 3, 4
+ √ 1, 2
+ • 2,3,4
+ • 1,2,3
+ • 1,2,3
+ 
+432. Укажите верное определение переменной на PHP: 1. $carName, 2. $color, 3.  v carName, 4.v userName
+ 
+ • 3, 4
+ √ 1, 2
+ • 2,3,4
+ • 1,2,3
+ • 1,2,3
+ 
+433. Укажите верное определение переменной на PHP: 1. $carName, 2.  $userName, 3. user, 4.v userName
+ 
+ • 3, 4
+ √ 1, 2
+ • 2,3,4
+ • 1,2,3
+ • 1,2,3
+ 
+434. Укажите верное определение переменной на PHP: 1. $user, 2. $userName, 3. user, 4.v userName
+ 
+ • 3, 4
+ √ 1, 2
+ • 2,3,4
+ • 1,2,3
+ • 1,2,3
+ 
+435. Укажите верное определение переменной на PHP: 1. $user, 2. $userName, 3. user, 4.variable name
+ 
+ • 3, 4
+ √ 1, 2
+ • 2,3,4
+ • 1,2,3
+ • 1,2,3
+ 
+436. Укажите верное определение переменной на PHP: 1. $user, 2. $userName, 3. user, 4.variable user
+ 
+ • 3, 4
+ √ 1, 2
+ • 2,3,4
+ • 1,2,3
+ • 1,2,3
+ 
+
+437. Укажите верное определение переменной на PHP: 1. $user, 2. $userName, 3. variable user, 4.variable user
+ 
+ • 3, 4
+ √ 1, 2
+ • 2,3,4
+ • 1,2,3
+ • 1,2,3
+ 
+438. Укажите верное определение переменной на PHP: 1. $user, 2. $userName, 3. v user, 4.v userName
+ 
+ • 3, 4
+ √ 1, 2
+ • 2,3,4
+ • 1,2,3
+ • 1,2,3
+ 
+439. Укажите верное определение переменной на PHP.
+ 
+ • v user
+ √ $user
+ • user
+ • v userName
+ • variable user
+ 
+440. Укажите верное определение переменной на PHP.
+ 
+ • v userName
+ √ $userName
+ • userName
+ • v user
+ • variable userName
+ 
+441. Укажите верное определение переменной на PHP.
+ 
+ • v color
+ √ $color
+ • color
+ • v colorName
+ • variable color
+ 
+442. Укажите верное определение переменной на PHP.
+ 
+ • v name
+ √ $name
+ • name
+ • v userName
+ • variable name
+ 
+443. Укажите верное определение переменной на PHP.
+ 
+ • v carName
+ √ $carName
+ • car Name
+ • v car
+ • variable carName
+ 
+444. Укажите достоинства PHP-фреймворков: 1. Простота, 2. Безопасность, 3. Экономичность
+ 
+ • только 2
+ • 1, 2
+
+• 2, 3
+ √ 1,2,3
+ • только 3
+ 
+445. Укажите достоинства PHP-фреймворков: 1. Простота, 2. Удобство, 3. Экономичность
+ 
+ • только 3
+ • 1, 2
+ • 2, 3
+ √ 1,2,3
+ • только 2
+ 
+446. Укажите достоинства PHP-фреймворков: 1. Экономичность, 2. Удобство, 3. Простота
+ 
+ • только 2
+ • 1, 2
+ • 2, 3
+ √ 1,2,3
+ • только 3
+ 
+447. Укажите достоинства PHP-фреймворков: 1. Удобство, 2. Простота, 3. Экономичность
+ 
+ • только 2
+ • 1, 2
+ • 2, 3
+ √ 1,2,3
+ • только 3
+ 
+448. Укажите достоинства PHP-фреймворков: 1. Простота, 2. Экономичность, 3. Удобство
+ 
+ • 2, 3
+ • 1, 2
+ • только 2
+ • только 3
+ √ 1,2,3
+ 
+449. Укажите достоинства PHP-фреймворков: 1. Удобство, 2. Масштабируемость, 3. Производительность
+ 
+ • только 3
+ • только 2
+ • 1, 2
+ • 2, 3
+ √ 1,2,3
+ 
+450. Укажите достоинства PHP-фреймворков: 1. Масштабируемость, 2. Производительность, 3. Удобство
+ 
+ • 2, 3
+ • только 2
+ • только 3
+ √ 1,2,3
+ • 1, 2
+ 
+451. Укажите достоинства PHP-фреймворков: 1. Производительность, 2. Удобство, 3. Масштабируемость
+ 
+ • 1, 2
+ • только 2
+ • только 3
+ √ 1,2,3
+ • 2, 3
+ 
+
+452. Укажите достоинства PHP-фреймворков: 1. Масштабируемость, 2. Удобство, 3. Производительность
+ 
+ • 2, 3
+ • только 2
+ • только 3
+ √ 1,2,3
+ • 1, 2
+ 
+453. Укажите достоинства PHP-фреймворков: 1. Удобство, 2. Производительность, 3. Масштабируемость
+ 
+ • только 2
+ • 1, 2
+ • 2, 3
+ √ 1,2,3
+ • только 3
+ 
+454. Что является угрозой? 1. SQL-инъекция, 2. Межсайтовый скриптинг, 3. CSRF
+ 
+ • 1, 2
+ • только 2
+ • только 3
+ √ 1,2,3
+ • 2, 3
+ 
+455. Что является угрозой? 1. CSRF, 2. SQL-инъекция, 3. XSS
+ 
+ • только 2
+ • 1, 2
+ • 2, 3
+ √ 1,2,3
+ • только 3
+ 
+456. Что является угрозой? 1. Межсайтовый скриптинг, 2. CSRF, 3. SQL-инъекция
+ 
+ • 1, 2
+ • 2, 3
+ √ 1,2,3
+ • только 3
+ • только 2
+ 
+457. Что является угрозой? 1.SQL-инъекция, 2. CSRF, 3. XSS
+ 
+ √ 1,2,3
+ • 1, 2
+ • 2, 3
+ • только 2
+ • только 3
+ 
+458. Что является угрозой? 1. XSS, 2. SQL-инъекция, 3. CSRF
+ 
+ • только 2
+ • 1, 2
+ • 2, 3
+ √ 1,2,3
+ • только 3
+ 
+459. Что является угрозой? 1. CSRF, 2. XSS, 3. SQL-инъекция
+ 
+ √ 1,2,3
+ • 2, 3
+
+• 1, 2
+ • только 3
+ • только 2
+ 
+460. ... злоумышленник украл вашу личность и отправил вредоносные запросы от вашего имени.
+ 
+ • SELECT
+ • XSS
+ • SQL-инъекция
+ √ CSRF-атака
+ • Межсайтовый скриптинг
+ 
+461. ... атака в один клик / скачивание сеанса.
+ 
+ • SQL-инъекция
+ • SELECT
+ • Межсайтовый скриптинг
+ √ CSRF-атака
+ • XSS
+ 
+462.
+ ... относится к злоумышленнику, внедряющему клиентские скрипты (например, JavaScript) на веб-страницу. Когда
+пользователь просматривает веб-страницу, сценарий будет выполняться в браузере пользователя для достижения цели
+злоумышленника.
+ 
+ • SQL-инъекция
+ • SELECT
+ • атака в один клик
+ √ Межсайтовый скриптинг
+ • CSRF-атака
+ 
+463.
+ ... относится к злоумышленнику, внедряющему клиентские скрипты (например, JavaScript) на веб-страницу. Когда
+пользователь просматривает веб-страницу, сценарий будет выполняться в браузере пользователя для достижения цели
+злоумышленника.
+ 
+ • атака в один клик
+ • SELECT
+ • SQL-инъекция
+ • CSRF-атака
+ √ XSS
+ 
+464. ... злоумышленник вставляет команды SQL в поля ввода веб-формы или в строку запроса, запрашиваемую страницей, чтобы
+обманом заставить сервер выполнить вредоносные команды SQL.
+ 
+ • XSS
+ • атака в один клик
+ • CSRF-атака
+ √ SQL-инъекция
+ • Межсайтовый скриптинг
+ 
+465. Как выбрать сумму значений в столбце `V` с группировкой по столбцу `G` и упорядочить результат по сумме по убыванию?
+ 
+ • SELECT G, SUM(V) FROM Notlar GROUP BY G ORDER BY SUM(V) ASC;
+ √ SELECT G, SUM(V) FROM Notlar GROUP BY G ORDER BY SUM(V) DESC;
+ • SELECT G, SUM(V) FROM Notlar SORT BY G GROUP BY G ORDER BY SUM(V) DESC;
+ • SELECT G, SUM(V) FROM Notlar GROUP BY G ORDER BY G DESC;
+ • SELECT G, SUM(V) FROM Notlar GROUP BY G SORT BY SUM(V) DESC;
+ 
+466. Как выбрать сумму значений в столбце `V` с группировкой по столбцу `G` и условием, что сумма больше 100?
+ 
+ • SELECT G, SUM(V) FROM Notlar GROUP BY G IF SUM(V) > 100;
+ • SELECT G, SUM(V) FROM Notlar GROUP BY G WHERE SUM(V) > 100;
+
+• SELECT G, SUM(V) FROM Notlar GROUP BY G SORT BY SUM(V) > 100;
+ • SELECT G, SUM(V) FROM Notlar GROUP BY G CASE SUM(V) > 100;
+ √ SELECT G, SUM(V) FROM Notlar GROUP BY G HAVING SUM(V) > 100;
+ 
+467. Что вернет запрос `SELECT SUM(V) FROM Notlar WHERE C > 2;`?
+ 
+ • Количество строк в таблице `Notlar` для строк, где `C` больше 2.
+ • Сумму значений в столбце `N` для строк, где `C` больше 2.
+ √ Сумму значений в столбце `V` для строк, где `C` больше 2.
+ • Среднее значение в столбце `V` для строк, где `C` больше 2.
+ • Максимальное значение в столбце `V` для строк, где `C` больше 2.
+ 
+468. Как выбрать сумму значений в столбце `V` для строк, где `C` равно 1, и `G` равно 'A'?
+ 
+ • SELECT SUM(V) FROM Notlar IF C = 1 AND G = 'A';
+ • SELECT SUM(V) FROM Notlar HAVING C = 1 AND G = 'A';
+ • SELECT SUM(V) FROM Notlar CASE C = 1 AND G = 'A';
+ √ SELECT SUM(V) FROM Notlar WHERE C = 1 AND G = 'A';
+ • SELECT SUM(V) FROM Notlar WHEN C = 1 AND G = 'A';
+ 
+469. Как выбрать сумму только положительных значений в столбце `V`?
+ 
+ • SELECT SUM(V) FROM Notlar HAVING V > 0;
+ • SELECT SUM(V) FROM Notlar WHEN V > 0;
+ • SELECT SUM(V) FROM Notlar IF V > 0;
+ √ SELECT SUM(V) FROM Notlar WHERE V > 0;
+ • SELECT SUM(V) FROM Notlar CASE V > 0;
+ 
+470. Как выбрать сумму значений в столбце `V` с группировкой по столбцу `G`?
+ 
+ • SELECT G, SUM(V) FROM Notlar ORDER BY G;
+ • SELECT G, SUM(V) FROM Notlar GROUP BY V, ORDER BY G;
+ • SELECT G, SUM(V) FROM Notlar GROUP G, ORDER BY V;
+ √ SELECT G, SUM(V) FROM Notlar GROUP BY G;
+ • SELECT G, SUM(V) FROM Notlar SORT BY G;
+ 
+471. Как добавить условие, чтобы выбрать только сумму значений в столбце `V` для строк, где `C` равно 1?
+ 
+ • SELECT SUM(V) FROM Notlar CASE C = 1;
+ √ SELECT SUM(V) FROM Notlar WHERE C = 1;
+ • SELECT SUM(V) FROM Notlar HAVING C = 1;
+ • SELECT SUM(V) FROM Notlar WHEN C = 1;
+ • SELECT SUM(V) FROM Notlar IF C = 1;
+ 
+472. Каков будет результат запроса `SELECT SUM(V) FROM Notlar;`?
+ 
+ • Количество строк в таблице `Notlar`.
+ • Максимальное значение в столбце `V` в таблице `Notlar`.
+ • Сумма всех значений в столбце `N` в таблице `Notlar`.
+ • Среднее значение в столбце `V` в таблице `Notlar`.
+ √ Сумма всех значений в столбце `V` в таблице `Notlar`.
+ 
+473. Как выбрать имена студентов, у которых оценки выше 90?
+ 
+ • SELECT name FROM students WHEN grade > 90;
+ • SELECT name FROM students CASE grade > 90;
+ • SELECT name FROM students HAVING grade > 90;
+ • SELECT name FROM students IF grade > 90;
+ √ SELECT name FROM students WHERE grade > 90;
+ 
+
+474. Как выбрать имена студентов с сортировкой по возрастанию их имен?
+ 
+ • SELECT name FROM students ORDER name ASC;
+ • SELECT name FROM students ORDER BY name DESC;
+ √ SELECT name FROM students ORDER BY name ASC;
+ • SELECT name FROM students SORT BY name DESC;
+ • SELECT name FROM students SORT BY name ASC;
+ 
+475. Как выбрать все имена студентов, кроме тех, у кого возраст менее 18 лет?
+ 
+ • SELECT name FROM students WHERE age IN (18, 19, 20, ...);
+ • SELECT name FROM students WHERE age <> 18;
+ • SELECT name FROM students WHERE NOT age < 18;
+ √ SELECT name FROM students WHERE age >= 18;
+ • SELECT name FROM students WHERE age > 18;
+ 
+476. Как выбрать имена студентов, начинающихся с буквы 'A'?
+ 
+ • SELECT name FROM students BEGIN 'A%';
+ • SELECT name FROM students WHERE name = 'A%';
+ • SELECT name FROM students LIKE 'A%';
+ • SELECT name FROM students START 'A';
+ √ SELECT name FROM students WHERE name LIKE 'A%';
+ 
+477. Что вернет запрос SQL `SELECT COUNT(DISTINCT name) FROM students;`?
+ 
+ • Средний возраст студентов в таблице students.
+ • Количество имен преподавателей в таблице teachers.
+ √ Количество уникальных имен студентов в таблице students.
+ • Общее количество имен в таблице students.
+ • Количество всех студентов в таблице students.
+ 
+478. Как выбрать только первые 3 имена студентов из таблицы students?
+ 
+ • SELECT TOP 3 name FROM students;
+ • SELECT name FROM students WHERE rownum <= 3;
+ • SELECT name FROM students TOP 3;
+ • SELECT name FROM students FIRST 3;
+ √ SELECT name FROM students LIMIT 3;
+ 
+479. Как выбрать уникальные имена студентов из таблицы students?
+ 
+ • SELECT name FROM students UNIQUE;
+ • SELECT UNIQUE name FROM students;
+ • SELECT name FROM students GROUP DISTINCT;
+ • SELECT name FROM students GROUP BY name;
+ √ SELECT DISTINCT name FROM students;
+ 
+480. Как добавить условие, чтобы выбрать только имена студентов, чей возраст больше 21 года?
+ 
+ • SELECT name FROM students IF age > 21;
+ • SELECT name FROM students WHEN age > 21;
+ √ SELECT name FROM students WHERE age > 21;
+ • SELECT name FROM students CASE age > 21;
+ • SELECT name FROM students HAVING age > 21;
+ 
+481. Что означает запрос `SELECT name, age FROM students;`?
+ 
+ • Выборка всех столбцов из таблицы students.
+ • Выборка возрастов всех студентов из таблицы students.
+
+• Выборка имен всех студентов из таблицы students.
+ √ Выборка имен и возрастов всех студентов из таблицы students.
+ • Выборка имен и оценок всех студентов из таблицы students.
+ 
+482. Как отсортировать имена студентов по алфавиту в порядке убывания?
+ 
+ • SELECT name FROM students ORDER BY name ASC;
+ • SELECT name FROM students SORT ASC;
+ • SELECT name FROM students ORDER name DESC;
+ • SELECT name FROM students SORT DESC;
+ √ SELECT name FROM students ORDER BY name DESC;
+ 
+483. Как узнать количество студентов в таблице students?
+ 
+ • SELECT name FROM students GROUP BY COUNT(name);
+ • SELECT name FROM students COUNT;
+ • SELECT NUM_ROWS FROM students;
+ √ SELECT COUNT(*) FROM students;
+ • SELECT TOTAL(name) FROM students;
+ 
+484. Как изменить запрос `SELECT name FROM students;` так, чтобы получить только первые 5 имен?
+ 
+ √ SELECT name FROM students LIMIT 5;
+ • SELECT name FROM students TOP 3;
+ • SELECT name FROM students FIRST 5;
+ • SELECT name FROM students WHERE rownum <= 5;
+ • SELECT TOP 5 name FROM students;
+ 
+485. Что означает SQL-запрос `SELECT DISTINCT name FROM students;`?
+ 
+ • Имена всех студентов из таблицы students.
+ • Имена всех студентов и их номера групп.
+ • Имена студентов, возраст которых больше 20 лет.
+ √ Уникальные имена студентов из таблицы students.
+ • Уникальные имена преподавателей из таблицы teachers.
+ 
+486. Какой результат будет возвращен запросом `SELECT name FROM students WHERE age > 20;`?
+ 
+ √ Имена студентов, возраст которых больше 20 лет.
+ • Имена всех преподавателей из таблицы teachers.
+ • Имена всех студентов и их номера групп.
+ • Имена всех студентов из таблицы students.
+ • Имена студентов, возраст которых меньше или равен 20 лет.
+ 
+487. Что вернет запрос SQL `SELECT name FROM students;`?
+ 
+ • Имена всех студентов и их оценки.
+ • Имена всех студентов и их номера групп.
+ • Имена всех преподавателей из таблицы teachers.
+ √ Имена всех студентов из таблицы students.
+ • Только имена студентов, начинающихся с буквы "A".
+ 
+488. Укажите операторы манипуляции данными: 1. INSERT, 2. DELETE, 3. SELECT, 4. UPDATE
+ 
+ • 2,3,4
+ • 1, 3
+ • 1,2,3
+ • 1, 2
+ √ 1,2,3,4
+ 
+
+489. Укажите операторы манипуляции данными: 1. DELETE, 2. SELECT, 3. INSERT, 4. UPDATE
+ 
+ • 1, 3
+ • 2,3,4
+ • 1,2,3
+ • 1, 2
+ √ 1,2,3,4
+ 
+490. Укажите операторы манипуляции данными: 1. SELECT, 2. DELETE, 3. UPDATE, 4. INSERT
+ 
+ • 2,3,4
+ • 1, 3
+ √ 1,2,3,4
+ • 1, 2
+ • 1,2,3
+ 
+491. Укажите операторы манипуляции данными: 1. UPDATE, 2. INSERT, 3. DELETE, 4. SELECT
+ 
+ • 1,2,3
+ • 2,3,4
+ √ 1,2,3,4
+ • 1, 3
+ • 1, 2
+ 
+492. Укажите операторы манипуляции данными: 1. INSERT, 2. SELECT, 3. DELETE, 4. UPDATE
+ 
+ • 1,2,3
+ • 2,3,4
+ • 1, 3
+ √ 1,2,3,4
+ • 1, 2
+ 
+493. Укажите операторы манипуляции данными: 1. DELETE, 2. UPDATE, 3. SELECT, 4. INSERT
+ 
+ • 1, 3
+ √ 1,2,3,4
+ • 1, 2
+ • 1,2,3
+ • 2,3,4
+ 
+494. Укажите операторы манипуляции данными: 1. UPDATE, 2. SELECT, 3. INSERT, 4. DELETE
+ 
+ • 1,2,3
+ • 2,3,4
+ • 1, 3
+ √ 1,2,3,4
+ • 1, 2
+ 
+495. Укажите операторы манипуляции данными: 1. SELECT, 2. UPDATE, 3. INSERT, 4. DELETE
+ 
+ • 2,3,4
+ • 1,2,3
+ • 1, 2
+ √ 1,2,3,4
+ • 1, 3
+ 
+496. Укажите операторы манипуляции данными: 1. DELETE, 2. INSERT, 3. UPDATE, 4. SELECT
+ 
+ • 1, 3
+ • 2,3,4
+
+• 1,2,3
+ • 1, 2
+ √ 1,2,3,4
+ 
+497. Укажите операторы манипуляции данными: 1. UPDATE, 2. DELETE, 3. SELECT, 4. INSERT
+ 
+ • 1,2,3
+ • 2,3,4
+ • 1, 3
+ √ 1,2,3,4
+ • 1, 2
+ 
+498. Укажите операторы для описания данных: 1.ALTER, 2. CREATE, 3. DROP
+ 
+ • только 2
+ • 1, 2
+ • 2, 3
+ √ 1,2,3
+ • только 3
+ 
+499. Укажите операторы для описания данных: 1.DROP, 2. ALTER, 3. CREATE
+ 
+ • 1, 2
+ • 2, 3
+ √ 1,2,3
+ • только 3
+ • только 2
+ 
+500. Укажите операторы для описания данных: 1.CREATE, 2. DROP, 3. ALTER
+ 
+ • 2, 3
+ • 1, 2
+ • только 2
+ • только 3
+ √ 1,2,3
+ 
+501. Укажите операторы для описания данных: 1.DROP, 2. CREATE, 3. ALTER
+ 
+ • 2, 3
+ • 1, 2
+ • только 2
+ • только 3
+ √ 1,2,3
+ 
+502. Укажите операторы для описания данных: 1.ALTER, 2. DROP, 3. CREATE
+ 
+ • только 2
+ • 1, 2
+ • 2, 3
+ √ 1,2,3
+ • только 3
+ 
+503. Укажите операторы для описания данных: 1.CREATE, 2. ALTER, 3. DROP
+ 
+ • только 2
+ • 1, 2
+ • 2, 3
+ √ 1,2,3
+ • только 3
+ 
+
+504. Что вернет запрос `SELECT COUNT(V) FROM Marks GROUP BY G HAVING COUNT(*) > 2;`?
+ 
+ • Среднее значение в столбце `V` для групп, в которых количество строк больше 2.
+ • Количество строк в столбце `V` для всех групп.
+ • Количество строк в столбце `V` для групп, в которых количество строк меньше 2.
+ √ Количество строк в столбце `V` для групп, в которых количество строк больше 2.
+ • Сумма значений в столбце `V` для групп, в которых количество строк больше 2.
+ 
+505. Как выбрать количество строк в столбце `V` с группировкой по столбцу `G` и упорядочить результат по столбцу `G` по
+возрастанию?
+ 
+ • SELECT G, COUNT(V) FROM Marks ORDER BY G ASC, COUNT(V) DESC;
+ • SELECT G, COUNT(V) FROM Marks GROUP BY G SORT BY G ASC;
+ • SELECT G, COUNT(V) FROM Marks SORT BY G GROUP BY G ORDER BY G ASC;
+ • SELECT G, COUNT(V) FROM Marks GROUP BY G ORDER BY G DESC;
+ √ SELECT G, COUNT(V) FROM Marks GROUP BY G ORDER BY G ASC;
+ 
+506. Как выбрать количество строк в столбце `V` с группировкой по столбцу `G` и упорядочить результат по количеству строк в
+группе по убыванию?
+ 
+ • SELECT G, COUNT(V) FROM Marks GROUP BY G SORT BY COUNT(V) DESC;
+ • SELECT G, COUNT(V) FROM Marks SORT BY G GROUP BY G ORDER BY COUNT(V) DESC;
+ • SELECT G, COUNT(V) FROM Marks GROUP BY G ORDER BY G DESC;
+ √ SELECT G, COUNT(V) FROM Marks GROUP BY G ORDER BY COUNT(V) DESC;
+ • SELECT G, COUNT(V) FROM Marks GROUP BY G ORDER BY COUNT(V) ASC;
+ 
+507. Как выбрать количество строк в столбце `V` с группировкой по столбцу `G` и условием, что количество строк в группе больше
+3?
+ 
+ • SELECT G, COUNT(V) FROM Marks GROUP BY G SORT BY COUNT(*) > 3;
+ • SELECT G, COUNT(V) FROM Marks GROUP BY G WHERE COUNT(*) > 3;
+ • SELECT G, COUNT(V) FROM Marks GROUP BY G IF COUNT(*) > 3;
+ √ SELECT G, COUNT(V) FROM Marks GROUP BY G HAVING COUNT(*) > 3;
+ • SELECT G, COUNT(V) FROM Marks GROUP BY G CASE COUNT(*) > 3;
+ 
+508. Что вернет запрос `SELECT COUNT(V) FROM Marks WHERE C > 2;`?
+ 
+ • Максимальное значение в столбце `V` для строк, где `C` больше 2.
+ • Сумма значений в столбце `V` для строк, где `C` больше 2.
+ • Среднее значение в столбце `V` для строк, где `C` больше 2.
+ • Количество строк в таблице `Marks` для строк, где `C` больше 2.
+ √ Количество строк в столбце `V` для строк, где `C` больше 2.
+ 
+509. Как выбрать количество строк в столбце `V` для строк, где `C` равно 1 и `G` равно 'A'?
+ 
+ • SELECT COUNT(V) FROM Marks IF C = 1 AND G = 'A';
+ • SELECT COUNT(V) FROM Marks HAVING C = 1 AND G = 'A';
+ √ SELECT COUNT(V) FROM Marks WHERE C = 1 AND G = 'A';
+ • SELECT COUNT(V) FROM Marks CASE C = 1 AND G = 'A';
+ • SELECT COUNT(V) FROM Marks WHEN C = 1 AND G = 'A';
+ 
+510. Как выбрать количество только положительных значений в столбце `V`?
+ 
+ • SELECT COUNT(V) FROM Marks HAVING V > 0;
+ • SELECT COUNT(V) FROM Marks IF V > 0;
+ • SELECT COUNT(V) FROM Marks WHEN V > 0;
+ √ SELECT COUNT(V) FROM Marks WHERE V > 0;
+ • SELECT COUNT(V) FROM Marks CASE V > 0;
+ 
+511. Как выбрать количество строк в столбце `V` с группировкой по столбцу `G`?
+
+• SELECT G, COUNT(V) FROM Marks GROUP G, ORDER BY V;
+ • SELECT G, COUNT(V) FROM Marks ORDER BY G;
+ • SELECT G, COUNT(V) FROM Marks SORT BY G;
+ √ SELECT G, COUNT(V) FROM Marks GROUP BY G;
+ • SELECT G, COUNT(V) FROM Marks GROUP BY V, ORDER BY G;
+ 
+512. Как добавить условие, чтобы выбрать только количество строк, где `C` равно 'A'?
+ 
+ • SELECT COUNT(V) FROM Marks IF C = 'A';
+ • SELECT COUNT(V) FROM Marks HAVING C = 'A';
+ • SELECT COUNT(V) FROM Marks CASE C = 'A';
+ √ SELECT COUNT(V) FROM Marks WHERE C = 'A';
+ • SELECT COUNT(V) FROM Marks WHEN C = 'A';
+ 
+513. Что вернет запрос `SELECT COUNT(V) FROM Marks;`?
+ 
+ • Максимальное значение в столбце `V` в таблице `Marks`.
+ • Сумма значений в столбце `V` в таблице `Marks`.
+ • Количество строк в таблице `Marks`.
+ √ Количество строк в столбце `V` в таблице `Marks`.
+ • Среднее значение в столбце `V` в таблице `Marks`.
+ 
+514. Как выбрать сумму значений в столбце `V` для строк, где значения столбца `C` равно 1 и значения столбца `G` начинаются с
+буквы 'A'?
+ 
+ • SELECT SUM(V) FROM Notlar HAVING C = 1 AND G LIKE 'A%';
+ • SELECT SUM(V) FROM Notlar CASE C = 1 AND G LIKE 'A%';
+ √ SELECT SUM(V) FROM Notlar WHERE C = 1 AND G LIKE 'A%';
+ • SELECT SUM(V) FROM Notlar WHEN C = 1 AND G LIKE 'A%';
+ • SELECT SUM(V) FROM Notlar IF C = 1 AND G LIKE 'A%';
+ 
+515. Что вернет запрос `SELECT SUM(V) FROM Notlar GROUP BY G HAVING COUNT(*) > 2;`?
+ 
+ • Среднее значение в столбце `V` для групп, в которых количество строк больше 2.
+ • Сумму значений в столбце `N` для групп, в которых количество строк больше 2.
+ • Сумму значений в столбце `V` для всех групп.
+ • Сумму значений в столбце `V` для групп, в которых количество строк меньше 2.
+ √ Сумму значений в столбце `V` для групп, в которых количество строк больше 2.
+ 
+516. Как выбрать сумму значений в столбце `V` с группировкой по столбцу `G` и упорядочить результат по столбцу `G` по
+возрастанию, но только для групп, в которых сумма больше 50?
+ 
+ • SELECT G, SUM(V) FROM Notlar ORDER BY G ASC, SUM(V) DESC;
+ • SELECT G, SUM(V) FROM Notlar GROUP BY G SORT BY G ASC;
+ • SELECT G, SUM(V) FROM Notlar SORT BY G GROUP BY G ORDER BY G ASC;
+ • SELECT G, SUM(V) FROM Notlar GROUP BY G ORDER BY G DESC;
+ √ SELECT G, SUM(V) FROM Notlar GROUP BY G HAVING SUM(V) > 50 ORDER BY G ASC;
+ 
+517. Как выбрать сумму значений в столбце `V` с группировкой по столбцу `G` и упорядочить результат по сумме по убыванию, но
+только для строк, где сумма больше 100?
+ 
+ • SELECT G, SUM(V) FROM Notlar GROUP BY G SORT BY SUM(V) > 100 ORDER BY SUM(V) DESC;
+ • SELECT G, SUM(V) FROM Notlar GROUP BY G WHERE SUM(V) > 100 ORDER BY SUM(V) DESC;
+ • SELECT G, SUM(V) FROM Notlar GROUP BY G ORDER BY G DESC, SUM(V) DESC;
+ • SELECT G, SUM(V) FROM Notlar GROUP BY G HAVING SUM(V) > 100 ORDER BY G DESC;
+ √ SELECT G, SUM(V) FROM Notlar GROUP BY G HAVING SUM(V) > 100 ORDER BY SUM(V) DESC;
+ 
+518. Как выбрать сумму значений в столбце `V` с группировкой по столбцу `G` и условием, что сумма меньше 200?
+ 
+
+• SELECT G, SUM(V) FROM Notlar GROUP BY G IF SUM(V) < 200;
+ • SELECT G, SUM(V) FROM Notlar GROUP BY G WHERE SUM(V) < 200;
+ • SELECT G, SUM(V) FROM Notlar GROUP BY G SORT BY SUM(V) < 200;
+ • SELECT G, SUM(V) FROM Notlar GROUP BY G CASE SUM(V) < 200;
+ √ SELECT G, SUM(V) FROM Notlar GROUP BY G HAVING SUM(V) < 200;
+ 
+519. Что вернет запрос `SELECT SUM(V) FROM Notlar WHERE C <> 1;`?
+ 
+ • Сумму значений в столбце `N` для строк, где `C` не равно 1.
+ • Количество строк в таблице `Notlar` для строк, где `C` не равно 1.
+ • Среднее значение в столбце `V` для строк, где `C` не равно 1.
+ • Максимальное значение в столбце `V` для строк, где `C` не равно 1.
+ √ Сумму значений в столбце `V` для строк, где `C` не равно 1.
+ 
+520. Как выбрать сумму значений в столбце `V` для строк, где значения столбца `C` равно 1 или 2?
+ 
+ • SELECT SUM(V) FROM Notlar IF C = 1 OR C = 2;
+ • SELECT SUM(V) FROM Notlar HAVING C = 1 OR C = 2;
+ • SELECT SUM(V) FROM Notlar CASE C = 1 OR C = 2;
+ • SELECT SUM(V) FROM Notlar WHEN C = 1 OR C = 2;
+ √ SELECT SUM(V) FROM Notlar WHERE C = 1 OR C = 2;
+ 
+521. Как выбрать сумму значений в столбце `V` для строк, где значения столбца `N` больше 50 и значения столбца `C` равно 2?
+ 
+ • SELECT SUM(V) FROM Notlar IF N > 50 AND C = 2;
+ • SELECT SUM(V) FROM Notlar HAVING N > 50 AND C = 2;
+ • SELECT SUM(V) FROM Notlar CASE N > 50 AND C = 2;
+ √ SELECT SUM(V) FROM Notlar WHERE N > 50 AND C = 2;
+ • SELECT SUM(V) FROM Notlar WHEN N > 50 AND C = 2;
+ 
+522. Как выбрать сумму значений в столбце `V` только для строк, где значения столбца `G` начинаются с буквы 'B'?
+ 
+ • SELECT SUM(V) FROM Notlar HAVING G LIKE 'B%';
+ • SELECT SUM(V) FROM Notlar IF G LIKE 'B%';
+ • SELECT SUM(V) FROM Notlar WHEN G LIKE 'B%';
+ • SELECT SUM(V) FROM Notlar CASE G LIKE 'B%';
+ √ SELECT SUM(V) FROM Notlar WHERE G LIKE 'B%';
+ 
+523. Что вернет запрос `SELECT SUM(V) FROM Notlar WHERE C = 'A';`?
+ 
+ √ Сумму значений в столбце `V` для строк, где `C` равно 'A'.
+ • Сумму значений в столбце `V` для строк, где `C` равно 1.
+ • Сумму значений в столбце `N` для строк, где `C` равно 'A'.
+ • Сумму значений в столбце `V` для всех строк в таблице `Notlar`.
+ • Сумму значений в столбце `V` для строк, где `C` не равно 'A'.
+ 
+524. Что вернет запрос `SELECT SUM(V) FROM Notlar GROUP BY G HAVING COUNT(*) > 2;`?
+ 
+ • Сумму значений в столбце `V` для всех групп.
+ • Сумму значений в столбце `N` для групп, в которых количество строк больше 2.
+ • Среднее значение в столбце `V` для групп, в которых количество строк больше 2.
+ √ Сумму значений в столбце `V` для групп, в которых количество строк больше 2.
+ • Сумму значений в столбце `V` для групп, в которых количество строк меньше 2.
+ 
+525. Как выбрать сумму значений в столбце `V` с группировкой по столбцу `G` и упорядочить результат по столбцу `G` по
+возрастанию?
+ 
+ • SELECT G, SUM(V) FROM Notlar GROUP BY G SORT BY G ASC;
+ • SELECT G, SUM(V) FROM Notlar ORDER BY G ASC, SUM(V) DESC;
+ √ SELECT G, SUM(V) FROM Notlar GROUP BY G ORDER BY G ASC;
+
+• SELECT G, SUM(V) FROM Notlar GROUP BY G ORDER BY G DESC;
+ • SELECT G, SUM(V) FROM Notlar SORT BY G GROUP BY G ORDER BY G ASC;
